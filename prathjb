@@ -1,0 +1,77 @@
+Here’s a resume template tailored to a UI Automation Tester specializing in the Gauge framework with Python.
+
+[Your Name]
+[Your Address]
+[City, State, Zip]
+[Your Phone Number]
+[Your Email Address]
+[LinkedIn Profile] | [GitHub/Portfolio Link, if applicable]
+
+Professional Summary
+
+Detail-oriented UI Automation Tester with expertise in using the Gauge framework and Python for creating, maintaining, and executing automated test scripts. Proficient in designing robust test frameworks to improve test coverage and enhance product quality. Adept at collaborating within Agile teams, conducting cross-browser testing, and implementing continuous integration with Jenkins. Known for excellent problem-solving abilities and a strong focus on delivering high-quality software.
+
+Technical Skills
+
+	•	Testing Frameworks: Gauge, Selenium, Pytest, TestNG
+	•	Programming Languages: Python, JavaScript
+	•	CI/CD: Jenkins, GitLab CI, CircleCI
+	•	Version Control: Git, GitHub, Bitbucket
+	•	Bug Tracking & Test Management: JIRA, TestRail, ALM
+	•	Other Skills: API testing, SQL, XPath, Agile methodologies (Scrum/Kanban), Docker
+
+Professional Experience
+
+UI Automation Tester – Gauge Framework
+[Company Name] | [Location] | [Month Year – Present]
+
+	•	Developed automated UI test scripts for a complex web application using the Gauge framework with Python, increasing test coverage by 35%.
+	•	Created modular and reusable test cases for new features and regression testing, reducing test maintenance time by 25%.
+	•	Implemented parallel test execution using Gauge, improving testing efficiency and reducing test cycle time.
+	•	Conducted cross-browser testing to ensure consistency across multiple platforms and browsers.
+	•	Integrated Gauge tests with Jenkins for continuous integration, automating test runs and alerting stakeholders on build quality.
+	•	Collaborated closely with the development and product teams to identify testing needs and align with project goals.
+
+QA Automation Engineer
+[Company Name] | [Location] | [Month Year – Month Year]
+
+	•	Developed and executed automated test cases for UI and API using Selenium and Postman, with a focus on usability and performance.
+	•	Led efforts in implementing automation strategies within an Agile environment, participating in sprint planning and reviews.
+	•	Built and maintained CI/CD pipelines to integrate automated tests, achieving consistent, fast feedback loops.
+	•	Reported, tracked, and prioritized defects using JIRA, working with developers to resolve issues quickly.
+
+Software Quality Assurance Analyst
+[Company Name] | [Location] | [Month Year – Month Year]
+
+	•	Conducted manual and automated testing for web-based applications using Python-based scripts to validate functionality, UI, and data accuracy.
+	•	Analyzed requirements and wrote comprehensive test plans and test cases for functional, regression, and system testing.
+	•	Generated detailed defect and test execution reports, facilitating clear communication with team members and stakeholders.
+
+Education
+
+Bachelor of Science in Computer Science
+[University Name] | [Location] | [Graduation Year]
+
+Certifications
+
+	•	Certified Gauge Tester – [Certifying Body] | [Year]
+	•	ISTQB Certified Tester – [Certifying Body] | [Year]
+
+Projects
+
+Gauge-Based Automation for E-commerce Web Application
+Designed and executed automated UI test scripts for a major e-commerce web application using Gauge with Python. Increased overall test coverage and streamlined testing processes by implementing parallel testing and CI integration.
+
+CI/CD Automation for Web-Based Platform
+Developed and integrated automated tests within a Jenkins pipeline, significantly reducing manual regression efforts and establishing consistent feedback on build quality.
+
+Professional Development
+
+	•	Attended workshops on test automation frameworks and continuous integration best practices.
+	•	Participated in webinars on advanced Gauge framework techniques and testing strategies.
+
+References
+
+Available upon request.
+
+This format emphasizes your Gauge framework experience, Python skills, and relevant technical expertise, with a focus on automation testing accomplishments and contributions. Tailor the details based on your specific experiences and achievements.
